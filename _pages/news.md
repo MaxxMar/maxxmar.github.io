@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: Blog: news, articles, videos
 permalink: /news/
 ---
 
